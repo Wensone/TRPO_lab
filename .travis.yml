@@ -1,6 +1,4 @@
 language: c
 script:
     - make main
-    - cd test/
-    - make main
-    - ./test/main
+    - make tmain
