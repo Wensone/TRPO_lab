@@ -3,4 +3,4 @@ script:
     - make main
     - cd test/
     - make main
-    - ./main
+    - ./test/main
